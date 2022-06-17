@@ -8,4 +8,6 @@
     <string name="hint_company_input">Company Name</string>
     <string name="hint_color_input">Card Color</string>
     <string name="add_card_btn_label">Add card</string>
+    <string name="label_show_success">Card successfully registered!</string>
+    <string name="label_share">Share</string>
 </resources>
