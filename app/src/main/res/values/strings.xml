@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">BusinessCard</string>
     <string name="label_business_card">Business Card</string>
+    <string name="label_new_card">New Card</string>
+    <string name="hint_name_input">Full Name</string>
+    <string name="hint_phone_input">Phone Number</string>
+    <string name="hint_mail_input">E-mail Address</string>
+    <string name="hint_company_input">Company Name</string>
+    <string name="hint_color_input">Card Color</string>
+    <string name="add_card_btn_label">Add card</string>
 </resources>
